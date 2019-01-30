@@ -3,6 +3,7 @@ Smart Home is becoming more and more popular and I have started to work on it a 
 
 # Projects
 Check out the [Wiki](https://github.com/jannnfe/homebridge-ESP8266-pojects/wiki) for the Projects!
+* Luani HVIO Board with ESPEasy
 * Itead Sonoff Garagedoor Opener
 * Itead Sonoff Door Opener
 * Itead Sonoff Thermostat (Beta)
